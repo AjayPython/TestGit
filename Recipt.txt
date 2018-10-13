@@ -3,3 +3,6 @@ This is a test file as recipt.txt
 This is first
 This is second
 This is third
+
+Beans 
+Pizza
