@@ -4,6 +4,10 @@ This is first
 This is second
 This is third
 
+Beans 
+Pizza
+
+Done my Changes
 Thank you:)
 
 Done with current version
